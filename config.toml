@@ -1,4 +1,4 @@
-baseURL = "https://hackdiary.com/"
+baseURL = "https://gracious-hugle-ec67b5.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-PaperMod-master"
